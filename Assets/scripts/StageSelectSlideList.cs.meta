@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d8a945531d391f94386c4de448e9e451
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - CurrentSelectTex: {fileID: 2800000, guid: 85d24f7e6b6251749bad323d862ab690, type: 3}
+  - ItemTex: {fileID: 2800000, guid: 332b999bf54171c4bafc99092f0e0dcb, type: 3}
+  - PrevImg: {instanceID: 0}
+  - LText: {instanceID: 0}
+  - FI: {instanceID: 0}
+  - FO: {instanceID: 0}
+  - EnterSound: {fileID: 8300000, guid: 11eaf16f25b2e63408bff52d5ecc7315, type: 3}
+  - CancelSound: {fileID: 8300000, guid: 74f33699f6ad3ff48883bd9148a066ca, type: 3}
+  - SelectSound: {fileID: 8300000, guid: 9f67b8942e12bac458f2211355d44ccb, type: 3}
+  - ErrorSound: {fileID: 8300000, guid: 5c524aa90977c824988605887aa139cb, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

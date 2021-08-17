@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b91bba5719b0b984d878ba772adcca30
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - idleAnimation: {fileID: 7400000, guid: fa3f7cea7b4cd3c4292377ebdfbe9efb, type: 3}
+  - walkAnimation: {fileID: 7400002, guid: fa3f7cea7b4cd3c4292377ebdfbe9efb, type: 3}
+  - runAnimation: {fileID: 7400004, guid: fa3f7cea7b4cd3c4292377ebdfbe9efb, type: 3}
+  - jumpPoseAnimation: {fileID: 7400006, guid: fa3f7cea7b4cd3c4292377ebdfbe9efb, type: 3}
+  - squatAnimation: {fileID: 7400010, guid: fa3f7cea7b4cd3c4292377ebdfbe9efb, type: 3}
+  - idleAnimationKoshi: {fileID: 7400000, guid: 64665f25af068ac459167b1900a6a52d,
+      type: 3}
+  - walkAnimationKoshi: {fileID: 7400002, guid: 64665f25af068ac459167b1900a6a52d,
+      type: 3}
+  - runAnimationKoshi: {fileID: 7400004, guid: 64665f25af068ac459167b1900a6a52d, type: 3}
+  - jumpPoseAnimationKoshi: {fileID: 7400006, guid: 64665f25af068ac459167b1900a6a52d,
+      type: 3}
+  - squatAnimationKoshi: {fileID: 7400008, guid: 64665f25af068ac459167b1900a6a52d,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

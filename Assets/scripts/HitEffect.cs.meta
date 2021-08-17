@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 1fbf310d0109b3749a0359198d36d6a6
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - DefaultEffectPrefab: {fileID: 100002, guid: ac4e690eb285092419d200ca785fdc5e,
+      type: 2}
+  - RockEffectPrefab: {fileID: 100002, guid: ac4e690eb285092419d200ca785fdc5e, type: 2}
+  - WhiteRockEffectPrefab: {fileID: 100000, guid: 41363750e15f3c04b987fd43044cb289,
+      type: 2}
+  - GrassEffectPrefab: {fileID: 100000, guid: 0d705780710a06d4ba5998d1ad4212d3, type: 2}
+  - DirtEffectPrefab: {fileID: 100000, guid: a076f23cd04d3e3428987e11c688524f, type: 2}
+  - TestPrefab: {fileID: 100000, guid: fc0ada86440da43479c60c43664e28b4, type: 2}
+  - MetalEffectPrefab: {fileID: 100000, guid: d4e0e9fd642aeb54abe59060132cd522, type: 2}
+  - WoodEffectPrefab: {fileID: 100000, guid: c26361162f567054392bc84a8de92faa, type: 2}
+  - DarkWoodEffectPrefab: {fileID: 100000, guid: e60a2d8b02ec99e4ab91043678b68665,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

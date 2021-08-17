@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: c700de7fef2d8c14286f4eb89eacf0db
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Door: {fileID: 100002, guid: 2042efaf86c51b74e850d2a7808b36f9, type: 3}
+  - DoorSFX: {fileID: 8300000, guid: f57d438c558076141ab69b86aa0a7f79, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

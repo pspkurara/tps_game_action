@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 9d98de3fdcba57b4c88512392f9b417c
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - SettingsPrefab: {fileID: 100000, guid: 6dec423315dd37d498c1dec064e82a29, type: 2}
+  - ScoresPrefab: {fileID: 100000, guid: b45fbba2246e735478d68cf5470c6010, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

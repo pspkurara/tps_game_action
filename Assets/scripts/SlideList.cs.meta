@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 4f1f77e7d38c8544288a2be0ff64a2ff
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - CurrentSelectTex: {fileID: 2800000, guid: 85d24f7e6b6251749bad323d862ab690, type: 3}
+  - ItemTex: {fileID: 2800000, guid: 332b999bf54171c4bafc99092f0e0dcb, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

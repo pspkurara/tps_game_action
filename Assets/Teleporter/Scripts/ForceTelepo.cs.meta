@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: f45a801bbca642b4bb87b4f3f0b61683
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - targetOut: {instanceID: 0}
+  - teleportExitAC: {fileID: 8300000, guid: 62a11b4abf3e80e4bba48690f1240f13, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
